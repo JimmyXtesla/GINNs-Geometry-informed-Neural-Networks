@@ -1,4 +1,4 @@
-# Geometry-informed Neural Networks (GINNs)
+# Geometry informed Neural Networks (GINNs)
 
 ### [Project Page](https://arturs-berzins.github.io/GINN/) | [arXiv](https://arxiv.org/abs/2402.14009)
 
