@@ -4,7 +4,7 @@
 
 <img src="media/diagonal_other_overlay.gif" width="800"/>
 
-This project accompanies the paper "Geometry-informed Neural Networks", which allows to train shape generative models without data.
+This project, accompanies the paper "Geometry-informed Neural Networks", which allows to train shape generative models without data.
 Instead, GINNs are trained to satisfy design requirements given as constraints and objectives.
 In particular, a diversity constraint makes these models generative.
 GINNs not only learn to generate multiple diverse solutions, but can also learn an organized latent space as shown above.
